@@ -1,2 +1,4 @@
-# deep-learning-study-2017-winter
-Resources for the Deep Learning study with Sung Kim's DeepLearningZeroToAll.
+# Contents
+
+- [Week 1](./week-1.html)
+    - [TensorBoard](./week-1-tensorboard.html)
