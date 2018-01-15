@@ -2,7 +2,7 @@
 
 # README
 
-This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 2017 Winter (January - February, 2018).
+This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 2017 Winter (January - February 2018).
 All the resources in the repository can be used in addition to [the Sung Kim's lectures][humkim-dl] and [its codes][dl-zero-to-all].
 
 [ccs-lab]: https://ccs-lab.github.io
@@ -11,7 +11,7 @@ All the resources in the repository can be used in addition to [the Sung Kim's l
 
 ## Contents
 
-- **Week 1 (2018-01-15)**: [Main material](./week-1.html), [Supplement for TensorBoard](./week-1-tensorboard.html)
+- **Week 1 (2018-01-15)**: [Main material](./week-1/index.html), [Supplement for TensorBoard](./week-1/tensorboard.html)
     - 머신러닝의 개념과 용어
     - Linear Regression의 개념
     - Linear Regression Cost 함수 최소화
