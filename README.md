@@ -11,12 +11,12 @@ All the resources in the repository can be used in addition to [the Sung Kim's l
 
 ## Contents
 
-- **Week 1 (2018-01-15)**: [Main material](./week-1/index.html), [Supplement for TensorBoard](./week-1/tensorboard.html)
+- **Week 1 (2018-01-15)**: [Main material](./week-1/), [Supplement for TensorBoard](./week-1/tensorboard.html)
     - 머신러닝의 개념과 용어
     - Linear Regression의 개념
     - Linear Regression Cost 함수 최소화
     - 여러 개의 입력의 Linear Regression
-- **Week 2 (2018-01-22)**
+- **Week 2 (2018-01-22)**: [Main material](./week-2/)
     - Logistic (Regression) Classification
         - Hypothesis 함수 소개
         - Cost 함수 소개
