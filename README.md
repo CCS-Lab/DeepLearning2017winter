@@ -47,6 +47,7 @@ This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 
         - 딥러닝의 기본 개념: 시작과 XOR 문제
         - 딥러닝의 기본 개념2: Back-propagation과 2006/2007 '딥'의 출현
         - Lab: Tensor Manipulation
+
 ## Week 4 (2018-02-13)
 
 - **Lectures**
@@ -62,6 +63,7 @@ This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 
         - Dropout과 앙상블
         - 레고처럼 넷트웍 모듈을 마음껏 쌓아 보자
         - Lab: 딥러닝으로 MNIST 98% 이상 해보기
+
 ## Week 5 (2018-02-19)
 
 - **Lectures**
@@ -72,6 +74,7 @@ This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 
         - Lab 1: TensorFlow CNN의 기본
         - Lab 2: TensorFlow로 구현하자 (MNIST 99%)
         - Lab 3: Class, tf.layers, Ensemble (MNIST 99.5%)
+
 ## Week 6 (2018-02-26)
 
 - **Lectures**
