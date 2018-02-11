@@ -47,6 +47,8 @@ This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 
         - 딥러닝의 기본 개념: 시작과 XOR 문제
         - 딥러닝의 기본 개념2: Back-propagation과 2006/2007 '딥'의 출현
         - Lab: Tensor Manipulation
+- **Materials**
+    - [Main material](./week-3/) by [Hyeonjin Kim][hyeonjinkim]
 
 ## Week 4 (2018-02-13)
 
@@ -89,7 +91,9 @@ This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 
 
 ## Useful Resources
 
-- http://data-blog.udacity.com/posts/2016/10/latex-primer/
+- [A Primer on Using LaTeX in Jupyter Notebooks | Democratizing Data](http://data-blog.udacity.com/posts/2016/10/latex-primer/)
+- [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 [jaeyeongyang]: https://github.com/PluVian
 [jiminsun]: https://github.com/jiminsun
+[hyeonjinkim]: https://github.com/ChulBal
