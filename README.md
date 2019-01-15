@@ -2,7 +2,7 @@
 
 # README
 
-This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 2017 Winter (January - February 2018). All the materials in the repository can be used in addition to [the Sung Kim's lectures][humkim-dl] and [its codes][dl-zero-to-all].
+This repository is to study Deep Learning with people in [CCS-Lab][ccs-lab], in 2018 Winter (January - February 2018). All the materials in the repository can be used in addition to [the Sung Kim's lectures][humkim-dl] and [its codes][dl-zero-to-all].
 
 [ccs-lab]: https://ccs-lab.github.io
 [humkim-dl]: https://hunkim.github.io/ml/
